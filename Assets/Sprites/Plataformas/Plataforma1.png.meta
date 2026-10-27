@@ -1,0 +1,1306 @@
+fileFormatVersion: 2
+guid: 064607f08b2263b48a37c82ddc20397b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1717166729733510745
+    second: Plataforma1_0
+  - first:
+      213: 8330567994617096156
+    second: Plataforma1_1
+  - first:
+      213: 3545934073607428427
+    second: Plataforma1_2
+  - first:
+      213: 1505980277435860004
+    second: Plataforma1_3
+  - first:
+      213: 212816797082031828
+    second: Plataforma1_4
+  - first:
+      213: -1333940930766179522
+    second: Plataforma1_5
+  - first:
+      213: 7738647370641967164
+    second: Plataforma1_6
+  - first:
+      213: -8279402136194659604
+    second: Plataforma1_7
+  - first:
+      213: 2325278033190783065
+    second: Plataforma1_8
+  - first:
+      213: 1818271163173964872
+    second: Plataforma1_9
+  - first:
+      213: -4492769760725856330
+    second: Plataforma1_10
+  - first:
+      213: 8930892466719354234
+    second: Plataforma1_11
+  - first:
+      213: 3596182166293720534
+    second: Plataforma1_12
+  - first:
+      213: -3631010993454953151
+    second: Plataforma1_13
+  - first:
+      213: -3650253554278011783
+    second: Plataforma1_14
+  - first:
+      213: 7793682551868685349
+    second: Plataforma1_15
+  - first:
+      213: -9116407888109330155
+    second: Plataforma1_16
+  - first:
+      213: -7164070121671977772
+    second: Plataforma1_17
+  - first:
+      213: -6106197376208130046
+    second: Plataforma1_18
+  - first:
+      213: -102874697270233450
+    second: Plataforma1_19
+  - first:
+      213: 4074311405127539617
+    second: Plataforma1_20
+  - first:
+      213: -371433586437297059
+    second: Plataforma1_21
+  - first:
+      213: 8681477522775582308
+    second: Plataforma1_22
+  - first:
+      213: -1338170469849688354
+    second: Plataforma1_23
+  - first:
+      213: 4112776622005477413
+    second: Plataforma1_24
+  - first:
+      213: -5967434119287840728
+    second: Plataforma1_25
+  - first:
+      213: -2892031970825317388
+    second: Plataforma1_26
+  - first:
+      213: 3869375443428420615
+    second: Plataforma1_27
+  - first:
+      213: -4452997560399978199
+    second: Plataforma1_28
+  - first:
+      213: 8198009350485642728
+    second: Plataforma1_29
+  - first:
+      213: 7437968509458778007
+    second: Plataforma1_30
+  - first:
+      213: 6200078378398428775
+    second: Plataforma1_31
+  - first:
+      213: 8073600271088599043
+    second: Plataforma1_32
+  - first:
+      213: 5633877573341257585
+    second: Plataforma1_33
+  - first:
+      213: -4023725067526886720
+    second: Plataforma1_34
+  - first:
+      213: 1044238421296437454
+    second: Plataforma1_35
+  - first:
+      213: -2229388604074400035
+    second: Plataforma1_36
+  - first:
+      213: -6456674955282230784
+    second: Plataforma1_37
+  - first:
+      213: -6014651956819668381
+    second: Plataforma1_38
+  - first:
+      213: -4900765439188416045
+    second: Plataforma1_39
+  - first:
+      213: 2398152525307487918
+    second: Plataforma1_40
+  - first:
+      213: -2844494687637474013
+    second: Plataforma1_41
+  - first:
+      213: 5303870283758641305
+    second: Plataforma1_42
+  - first:
+      213: 7217235072562791806
+    second: Plataforma1_43
+  - first:
+      213: -2571460626684041522
+    second: Plataforma1_44
+  - first:
+      213: 362369802022621485
+    second: Plataforma1_45
+  - first:
+      213: -3885481504877379201
+    second: Plataforma1_46
+  - first:
+      213: 1600412471999091234
+    second: Plataforma1_47
+  - first:
+      213: -5631619892093200922
+    second: Plataforma1_48
+  - first:
+      213: 8770549550024421583
+    second: Plataforma1_49
+  - first:
+      213: -3540905795418409575
+    second: Plataforma1_50
+  - first:
+      213: -2359612974784888215
+    second: Plataforma1_51
+  - first:
+      213: -7805009603199070176
+    second: Plataforma1_52
+  - first:
+      213: 7280475262826909909
+    second: Plataforma1_53
+  - first:
+      213: -3383401151265003926
+    second: Plataforma1_54
+  - first:
+      213: -6249030925526559905
+    second: Plataforma1_55
+  - first:
+      213: 1169867637261673747
+    second: Plataforma1_56
+  - first:
+      213: -1877457045844456261
+    second: Plataforma1_57
+  - first:
+      213: 5283475655719417983
+    second: Plataforma1_58
+  - first:
+      213: 895012654492139374
+    second: Plataforma1_59
+  - first:
+      213: -5850890308537981024
+    second: Plataforma1_60
+  - first:
+      213: -4322339341807567741
+    second: Plataforma1_61
+  - first:
+      213: -2264522849682850995
+    second: Plataforma1_62
+  - first:
+      213: 3795475318457416603
+    second: Plataforma1_63
+  - first:
+      213: -3903933559024087504
+    second: Plataforma1_64
+  - first:
+      213: -5132164690144707064
+    second: Plataforma1_65
+  - first:
+      213: -9189898330247482459
+    second: Plataforma1_66
+  - first:
+      213: -3917636615715946729
+    second: Plataforma1_67
+  - first:
+      213: -6668959022799948673
+    second: Plataforma1_68
+  - first:
+      213: 4892705379059876839
+    second: Plataforma1_69
+  - first:
+      213: 4247512292639449971
+    second: Plataforma1_70
+  - first:
+      213: 7089217756172556647
+    second: Plataforma1_71
+  - first:
+      213: -5926356132466955690
+    second: Plataforma1_72
+  - first:
+      213: 6086726441127920173
+    second: Plataforma1_73
+  - first:
+      213: 2001383650660915963
+    second: Plataforma1_74
+  - first:
+      213: -7077745782189253813
+    second: Plataforma1_75
+  - first:
+      213: -6813025631140864553
+    second: Plataforma1_76
+  - first:
+      213: 638289898502199006
+    second: Plataforma1_77
+  - first:
+      213: -3217711916855743440
+    second: Plataforma1_78
+  - first:
+      213: -2989990641879212633
+    second: Plataforma1_79
+  - first:
+      213: 6178115654419191685
+    second: Plataforma1_80
+  - first:
+      213: 5655713778456554752
+    second: Plataforma1_81
+  - first:
+      213: 1050963021328242938
+    second: Plataforma1_82
+  - first:
+      213: -4689599915579394022
+    second: Plataforma1_83
+  - first:
+      213: -6475469417800490079
+    second: Plataforma1_84
+  - first:
+      213: 7458669093814907763
+    second: Plataforma1_85
+  - first:
+      213: -5939705911811673520
+    second: Plataforma1_86
+  - first:
+      213: -1507651716409544202
+    second: Plataforma1_87
+  - first:
+      213: 5647562807926653528
+    second: Plataforma1_88
+  - first:
+      213: 2424011526899716621
+    second: Plataforma1_89
+  - first:
+      213: 243650528679048928
+    second: Plataforma1_90
+  - first:
+      213: -8142253502049848899
+    second: Plataforma1_91
+  - first:
+      213: -2560814165580220454
+    second: Plataforma1_92
+  - first:
+      213: -7122007348054194967
+    second: Plataforma1_93
+  - first:
+      213: 1771598073229451921
+    second: Plataforma1_94
+  - first:
+      213: -8089134258408665611
+    second: Plataforma1_95
+  - first:
+      213: 7126640307481217810
+    second: Plataforma1_96
+  - first:
+      213: -5748481032579008125
+    second: Plataforma1_97
+  - first:
+      213: 2837730943224691455
+    second: Plataforma1_98
+  - first:
+      213: -2106019717263189241
+    second: Plataforma1_99
+  - first:
+      213: 6075306623603153740
+    second: Plataforma1_100
+  - first:
+      213: 4209787917378264167
+    second: Plataforma1_101
+  - first:
+      213: -8310579796087455523
+    second: Plataforma1_102
+  - first:
+      213: 6839997839613011346
+    second: Plataforma1_103
+  - first:
+      213: -1890574894524219982
+    second: Plataforma1_104
+  - first:
+      213: -4222181977005063200
+    second: Plataforma1_105
+  - first:
+      213: -4254562491065231363
+    second: Plataforma1_106
+  - first:
+      213: -6692406515622868519
+    second: Plataforma1_107
+  - first:
+      213: -2696967052583420571
+    second: Plataforma1_108
+  - first:
+      213: -3674245678715404837
+    second: Plataforma1_109
+  - first:
+      213: 2595926857868809279
+    second: Plataforma1_110
+  - first:
+      213: -2052205951035244069
+    second: Plataforma1_111
+  - first:
+      213: -2769829980771729904
+    second: Plataforma1_112
+  - first:
+      213: 693141734211964264
+    second: Plataforma1_113
+  - first:
+      213: 2423605768229593033
+    second: Plataforma1_114
+  - first:
+      213: -83006652884184676
+    second: Plataforma1_115
+  - first:
+      213: -8584583136230235089
+    second: Plataforma1_116
+  - first:
+      213: 822840886055154991
+    second: Plataforma1_117
+  - first:
+      213: 6246823629302341062
+    second: Plataforma1_118
+  - first:
+      213: -5049658170528904051
+    second: Plataforma1_119
+  - first:
+      213: 8728300090434518097
+    second: Plataforma1_120
+  - first:
+      213: -5743766504489721059
+    second: Plataforma1_121
+  - first:
+      213: 3081235691260916837
+    second: Plataforma1_122
+  - first:
+      213: 608816500156018678
+    second: Plataforma1_123
+  - first:
+      213: -5646577859501750327
+    second: Plataforma1_124
+  - first:
+      213: 8551445580828953779
+    second: Plataforma1_125
+  - first:
+      213: -3999098774253179955
+    second: Plataforma1_126
+  - first:
+      213: 6138952553871091479
+    second: Plataforma1_127
+  - first:
+      213: -726666615533266656
+    second: Plataforma1_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plataforma1_4
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 721
+        width: 140
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d69f48dfb314f200800000000000000
+      internalID: 212816797082031828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 176
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceac18f8f97a91d80800000000000000
+      internalID: -8279402136194659604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_12
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 749
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd288970a438e130800000000000000
+      internalID: 3596182166293720534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_14
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 749
+        width: 159
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ce6257bb1b75dc0800000000000000
+      internalID: -3650253554278011783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 757
+        width: 133
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f352e3ce307dd7d0800000000000000
+      internalID: -2892031970825317388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_57
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 564
+        width: 66
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc036593cee1f5e0800000000000000
+      internalID: -1877457045844456261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_58
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 750
+        width: 173
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f787496ad1da25940800000000000000
+      internalID: 5283475655719417983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_59
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 543
+        width: 75
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fbb7c6449bb6c00800000000000000
+      internalID: 895012654492139374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_61
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 558
+        width: 86
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c3dd4f447f304c0800000000000000
+      internalID: -4322339341807567741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_64
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 754
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e84abac1172d9c0800000000000000
+      internalID: -3903933559024087504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_68
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 556
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f747f583a191373a0800000000000000
+      internalID: -6668959022799948673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_74
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 641
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa1be493d756cb10800000000000000
+      internalID: 2001383650660915963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_76
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 552
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd973219454371a0800000000000000
+      internalID: -6813025631140864553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_79
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 631
+        width: 302
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad1c055a5b6186d0800000000000000
+      internalID: -2989990641879212633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_80
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 563
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5879fe264731db550800000000000000
+      internalID: 6178115654419191685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_81
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 565
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d6f2c57b12d7e40800000000000000
+      internalID: 5655713778456554752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_90
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 554
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6304b6dde916300800000000000000
+      internalID: 243650528679048928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_91
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 667
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db173235497e00f80800000000000000
+      internalID: -8142253502049848899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_97
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 331
+        width: 334
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389be0725fa4930b0800000000000000
+      internalID: -5748481032579008125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_99
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 768
+        width: 87
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b1f8ea93ae5c2e0800000000000000
+      internalID: -2106019717263189241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_101
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 558
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c10137ecb2c6a30800000000000000
+      internalID: 4209787917378264167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_105
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 270
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e38e8bacdbc765c0800000000000000
+      internalID: -4222181977005063200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_107
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 55
+        width: 165
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d90acf5bbbcf13a0800000000000000
+      internalID: -6692406515622868519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_108
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 316
+        width: 275
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d35db31c2729ad0800000000000000
+      internalID: -2696967052583420571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_115
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 64
+        width: 166
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9118d493e919def0800000000000000
+      internalID: -83006652884184676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_116
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 64
+        width: 203
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f242034ee1f6dd880800000000000000
+      internalID: -8584583136230235089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_118
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 64
+        width: 153
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd15176efc21b650800000000000000
+      internalID: 6246823629302341062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_120
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 231
+        width: 176
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cfb5f00b6212970800000000000000
+      internalID: 8728300090434518097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_126
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 18
+        width: 357
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb60fa5ad85088c0800000000000000
+      internalID: -3999098774253179955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma1_127
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 61
+        width: 306
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717a67a72d0f13550800000000000000
+      internalID: 6138952553871091479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6c6f9dde8bde05d43947db60a8b8fd03
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plataforma1_0: 1717166729733510745
+      Plataforma1_1: 8330567994617096156
+      Plataforma1_10: -4492769760725856330
+      Plataforma1_100: 6075306623603153740
+      Plataforma1_101: 4209787917378264167
+      Plataforma1_102: -8310579796087455523
+      Plataforma1_103: 6839997839613011346
+      Plataforma1_104: -1890574894524219982
+      Plataforma1_105: -4222181977005063200
+      Plataforma1_106: -4254562491065231363
+      Plataforma1_107: -6692406515622868519
+      Plataforma1_108: -2696967052583420571
+      Plataforma1_109: -3674245678715404837
+      Plataforma1_11: 8930892466719354234
+      Plataforma1_110: 2595926857868809279
+      Plataforma1_111: -2052205951035244069
+      Plataforma1_112: -2769829980771729904
+      Plataforma1_113: 693141734211964264
+      Plataforma1_114: 2423605768229593033
+      Plataforma1_115: -83006652884184676
+      Plataforma1_116: -8584583136230235089
+      Plataforma1_117: 822840886055154991
+      Plataforma1_118: 6246823629302341062
+      Plataforma1_119: -5049658170528904051
+      Plataforma1_12: 3596182166293720534
+      Plataforma1_120: 8728300090434518097
+      Plataforma1_121: -5743766504489721059
+      Plataforma1_122: 3081235691260916837
+      Plataforma1_123: 608816500156018678
+      Plataforma1_124: -5646577859501750327
+      Plataforma1_125: 8551445580828953779
+      Plataforma1_126: -3999098774253179955
+      Plataforma1_127: 6138952553871091479
+      Plataforma1_128: -726666615533266656
+      Plataforma1_13: -3631010993454953151
+      Plataforma1_14: -3650253554278011783
+      Plataforma1_15: 7793682551868685349
+      Plataforma1_16: -9116407888109330155
+      Plataforma1_17: -7164070121671977772
+      Plataforma1_18: -6106197376208130046
+      Plataforma1_19: -102874697270233450
+      Plataforma1_2: 3545934073607428427
+      Plataforma1_20: 4074311405127539617
+      Plataforma1_21: -371433586437297059
+      Plataforma1_22: 8681477522775582308
+      Plataforma1_23: -1338170469849688354
+      Plataforma1_24: 4112776622005477413
+      Plataforma1_25: -5967434119287840728
+      Plataforma1_26: -2892031970825317388
+      Plataforma1_27: 3869375443428420615
+      Plataforma1_28: -4452997560399978199
+      Plataforma1_29: 8198009350485642728
+      Plataforma1_3: 1505980277435860004
+      Plataforma1_30: 7437968509458778007
+      Plataforma1_31: 6200078378398428775
+      Plataforma1_32: 8073600271088599043
+      Plataforma1_33: 5633877573341257585
+      Plataforma1_34: -4023725067526886720
+      Plataforma1_35: 1044238421296437454
+      Plataforma1_36: -2229388604074400035
+      Plataforma1_37: -6456674955282230784
+      Plataforma1_38: -6014651956819668381
+      Plataforma1_39: -4900765439188416045
+      Plataforma1_4: 212816797082031828
+      Plataforma1_40: 2398152525307487918
+      Plataforma1_41: -2844494687637474013
+      Plataforma1_42: 5303870283758641305
+      Plataforma1_43: 7217235072562791806
+      Plataforma1_44: -2571460626684041522
+      Plataforma1_45: 362369802022621485
+      Plataforma1_46: -3885481504877379201
+      Plataforma1_47: 1600412471999091234
+      Plataforma1_48: -5631619892093200922
+      Plataforma1_49: 8770549550024421583
+      Plataforma1_5: -1333940930766179522
+      Plataforma1_50: -3540905795418409575
+      Plataforma1_51: -2359612974784888215
+      Plataforma1_52: -7805009603199070176
+      Plataforma1_53: 7280475262826909909
+      Plataforma1_54: -3383401151265003926
+      Plataforma1_55: -6249030925526559905
+      Plataforma1_56: 1169867637261673747
+      Plataforma1_57: -1877457045844456261
+      Plataforma1_58: 5283475655719417983
+      Plataforma1_59: 895012654492139374
+      Plataforma1_6: 7738647370641967164
+      Plataforma1_60: -5850890308537981024
+      Plataforma1_61: -4322339341807567741
+      Plataforma1_62: -2264522849682850995
+      Plataforma1_63: 3795475318457416603
+      Plataforma1_64: -3903933559024087504
+      Plataforma1_65: -5132164690144707064
+      Plataforma1_66: -9189898330247482459
+      Plataforma1_67: -3917636615715946729
+      Plataforma1_68: -6668959022799948673
+      Plataforma1_69: 4892705379059876839
+      Plataforma1_7: -8279402136194659604
+      Plataforma1_70: 4247512292639449971
+      Plataforma1_71: 7089217756172556647
+      Plataforma1_72: -5926356132466955690
+      Plataforma1_73: 6086726441127920173
+      Plataforma1_74: 2001383650660915963
+      Plataforma1_75: -7077745782189253813
+      Plataforma1_76: -6813025631140864553
+      Plataforma1_77: 638289898502199006
+      Plataforma1_78: -3217711916855743440
+      Plataforma1_79: -2989990641879212633
+      Plataforma1_8: 2325278033190783065
+      Plataforma1_80: 6178115654419191685
+      Plataforma1_81: 5655713778456554752
+      Plataforma1_82: 1050963021328242938
+      Plataforma1_83: -4689599915579394022
+      Plataforma1_84: -6475469417800490079
+      Plataforma1_85: 7458669093814907763
+      Plataforma1_86: -5939705911811673520
+      Plataforma1_87: -1507651716409544202
+      Plataforma1_88: 5647562807926653528
+      Plataforma1_89: 2424011526899716621
+      Plataforma1_9: 1818271163173964872
+      Plataforma1_90: 243650528679048928
+      Plataforma1_91: -8142253502049848899
+      Plataforma1_92: -2560814165580220454
+      Plataforma1_93: -7122007348054194967
+      Plataforma1_94: 1771598073229451921
+      Plataforma1_95: -8089134258408665611
+      Plataforma1_96: 7126640307481217810
+      Plataforma1_97: -5748481032579008125
+      Plataforma1_98: 2837730943224691455
+      Plataforma1_99: -2106019717263189241
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

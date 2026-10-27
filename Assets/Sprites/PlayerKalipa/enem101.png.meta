@@ -1,0 +1,1054 @@
+fileFormatVersion: 2
+guid: 3f1e2fd2f268bdd4997ca50610509f05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4357336202532240725
+    second: enem101_0
+  - first:
+      213: 1517402266319262202
+    second: enem101_1
+  - first:
+      213: -4948983395155119196
+    second: enem101_2
+  - first:
+      213: -5416742482823560314
+    second: enem101_3
+  - first:
+      213: -6428810319397872355
+    second: enem101_4
+  - first:
+      213: -6686618065607791289
+    second: enem101_5
+  - first:
+      213: 8634165683889901078
+    second: enem101_6
+  - first:
+      213: 159665254293372075
+    second: enem101_7
+  - first:
+      213: 8313930710121074327
+    second: enem101_8
+  - first:
+      213: 3940327414961331832
+    second: enem101_9
+  - first:
+      213: -3597646185176117011
+    second: enem101_10
+  - first:
+      213: -6161482798731014832
+    second: enem101_11
+  - first:
+      213: 8976625809706772981
+    second: enem101_12
+  - first:
+      213: 2351429989113237035
+    second: enem101_13
+  - first:
+      213: -2650041008904917330
+    second: enem101_14
+  - first:
+      213: 2246865108920027165
+    second: enem101_15
+  - first:
+      213: 4321159339452486738
+    second: enem101_16
+  - first:
+      213: -3606741365597493089
+    second: enem101_17
+  - first:
+      213: -3058461344933898334
+    second: enem101_18
+  - first:
+      213: -3200895651489303792
+    second: enem101_19
+  - first:
+      213: -4445147261188703683
+    second: enem101_20
+  - first:
+      213: 8583387463401411423
+    second: enem101_21
+  - first:
+      213: -405195186570697651
+    second: enem101_22
+  - first:
+      213: -3246242806292148374
+    second: enem101_23
+  - first:
+      213: -2401966982540337944
+    second: enem101_24
+  - first:
+      213: -8032460005165474564
+    second: enem101_25
+  - first:
+      213: -7703315135229749385
+    second: enem101_26
+  - first:
+      213: 4686286203403927917
+    second: enem101_27
+  - first:
+      213: 1617835156565859786
+    second: enem101_28
+  - first:
+      213: -7886416978279627584
+    second: enem101_29
+  - first:
+      213: 5403300186821998498
+    second: enem101_30
+  - first:
+      213: -5418826545480742972
+    second: enem101_31
+  - first:
+      213: -1027673497470012611
+    second: enem101_32
+  - first:
+      213: -4828448088094502655
+    second: enem101_33
+  - first:
+      213: 3000209585249952726
+    second: enem101_34
+  - first:
+      213: -7363547882598784689
+    second: enem101_35
+  - first:
+      213: 1331871779295294506
+    second: enem101_36
+  - first:
+      213: 9126506649345614233
+    second: enem101_37
+  - first:
+      213: -7475462706322877420
+    second: enem101_38
+  - first:
+      213: -4349854161811963255
+    second: enem101_39
+  - first:
+      213: -2128723657537881463
+    second: enem101_40
+  - first:
+      213: -4874191372197975106
+    second: enem101_41
+  - first:
+      213: 639055710641719326
+    second: enem101_42
+  - first:
+      213: 976927130313621270
+    second: enem101_43
+  - first:
+      213: -3102584057555647988
+    second: enem101_44
+  - first:
+      213: -6877837232420253189
+    second: enem101_45
+  - first:
+      213: 2219167684647287350
+    second: enem101_46
+  - first:
+      213: 4037256959817745482
+    second: enem101_47
+  - first:
+      213: -8546665218753979428
+    second: enem101_48
+  - first:
+      213: 1575710093250833091
+    second: enem101_49
+  - first:
+      213: 7109288485513995101
+    second: enem101_50
+  - first:
+      213: -298587690027693354
+    second: enem101_51
+  - first:
+      213: -5473142800734021391
+    second: enem101_52
+  - first:
+      213: 8849109407511980476
+    second: enem101_53
+  - first:
+      213: 1821203076357808610
+    second: enem101_54
+  - first:
+      213: 769028737965698618
+    second: enem101_55
+  - first:
+      213: 4525142573387861441
+    second: enem101_56
+  - first:
+      213: 2373187315961182895
+    second: enem101_57
+  - first:
+      213: 4401573791551139206
+    second: enem101_58
+  - first:
+      213: 2524300767525297201
+    second: enem101_59
+  - first:
+      213: 1957903364960614400
+    second: enem101_60
+  - first:
+      213: 4438734526740992770
+    second: enem101_61
+  - first:
+      213: -5718112162973293349
+    second: enem101_62
+  - first:
+      213: -6099286558953953423
+    second: enem101_63
+  - first:
+      213: 5536342970662414664
+    second: enem101_64
+  - first:
+      213: -5881485078813449054
+    second: enem101_65
+  - first:
+      213: 9062922485984669378
+    second: enem101_66
+  - first:
+      213: -3390836467559117127
+    second: enem101_67
+  - first:
+      213: -6677118014275784071
+    second: enem101_68
+  - first:
+      213: -4489531291191102993
+    second: enem101_69
+  - first:
+      213: -6947917830586699292
+    second: enem101_70
+  - first:
+      213: -5308132902694036756
+    second: enem101_71
+  - first:
+      213: -1553534080251335079
+    second: enem101_72
+  - first:
+      213: -2318777704748777074
+    second: enem101_73
+  - first:
+      213: 4436162017732545980
+    second: enem101_74
+  - first:
+      213: -7808153605108552679
+    second: enem101_75
+  - first:
+      213: 991377948120409907
+    second: enem101_76
+  - first:
+      213: -381572404059254098
+    second: enem101_77
+  - first:
+      213: -3158010149451304532
+    second: enem101_78
+  - first:
+      213: -7924249703659207605
+    second: enem101_79
+  - first:
+      213: 7781841637938098803
+    second: enem101_80
+  - first:
+      213: -8666400235321490191
+    second: enem101_81
+  - first:
+      213: -2094022826217109047
+    second: enem101_82
+  - first:
+      213: 6063073500893960926
+    second: enem101_83
+  - first:
+      213: 685953566591535905
+    second: enem101_84
+  - first:
+      213: 1961513705423132136
+    second: enem101_85
+  - first:
+      213: 5903164876172887141
+    second: enem101_86
+  - first:
+      213: -3154602742774480412
+    second: enem101_87
+  - first:
+      213: -7951288799193494002
+    second: enem101_88
+  - first:
+      213: -223185562601392118
+    second: enem101_89
+  - first:
+      213: -472241025741449345
+    second: enem101_90
+  - first:
+      213: -3124226908860475457
+    second: enem101_91
+  - first:
+      213: -4254715041307254468
+    second: enem101_92
+  - first:
+      213: -7450174053908577898
+    second: enem101_93
+  - first:
+      213: -1242270575054969363
+    second: enem101_94
+  - first:
+      213: 7701523973451445239
+    second: enem101_95
+  - first:
+      213: 6877536796060729833
+    second: enem101_96
+  - first:
+      213: 6691545461112352821
+    second: enem101_97
+  - first:
+      213: 5749911705075704734
+    second: enem101_98
+  - first:
+      213: -6721190902394759975
+    second: enem101_99
+  - first:
+      213: 273892852139433558
+    second: enem101_100
+  - first:
+      213: -5667394423238144544
+    second: enem101_101
+  - first:
+      213: -5163087359703665109
+    second: enem101_102
+  - first:
+      213: 3708156303792111712
+    second: enem101_103
+  - first:
+      213: -7274835462697280251
+    second: enem101_104
+  - first:
+      213: -5324778700365041596
+    second: enem101_105
+  - first:
+      213: 7754526846516497026
+    second: enem101_106
+  - first:
+      213: 2308994412473233729
+    second: enem101_107
+  - first:
+      213: -2629111924794403149
+    second: enem101_108
+  - first:
+      213: 5024221003710311302
+    second: enem101_109
+  - first:
+      213: -2397606708190440118
+    second: enem101_110
+  - first:
+      213: -1042176017750443774
+    second: enem101_111
+  - first:
+      213: 6177257736279155699
+    second: enem101_112
+  - first:
+      213: 7558874801491868098
+    second: enem101_113
+  - first:
+      213: -4125776571353319454
+    second: enem101_114
+  - first:
+      213: 4845693195553016792
+    second: enem101_115
+  - first:
+      213: 6008709005524550014
+    second: enem101_116
+  - first:
+      213: -1155675043834815215
+    second: enem101_117
+  - first:
+      213: -1238577471231934374
+    second: enem101_118
+  - first:
+      213: -3860069808699495966
+    second: enem101_119
+  - first:
+      213: -1547767065718539834
+    second: enem101_120
+  - first:
+      213: 7606630597044651854
+    second: enem101_121
+  - first:
+      213: -2283677071082213120
+    second: enem101_122
+  - first:
+      213: -3977414563013300615
+    second: enem101_123
+  - first:
+      213: -1535484607679433073
+    second: enem101_124
+  - first:
+      213: -8096970805598085467
+    second: enem101_125
+  - first:
+      213: 4669420811078489960
+    second: enem101_126
+  - first:
+      213: 1203312553161838935
+    second: enem101_127
+  - first:
+      213: 7217945167325627285
+    second: enem101_128
+  - first:
+      213: -1287613915096857819
+    second: enem101_129
+  - first:
+      213: 2909771180993940461
+    second: enem101_130
+  - first:
+      213: 5937394485915400138
+    second: enem101_131
+  - first:
+      213: -2219778061881851395
+    second: enem101_132
+  - first:
+      213: 1271299899430931634
+    second: enem101_133
+  - first:
+      213: 6832997259284769437
+    second: enem101_134
+  - first:
+      213: -9021420861921545852
+    second: enem101_135
+  - first:
+      213: 6940752043858340969
+    second: enem101_136
+  - first:
+      213: -712862695425421598
+    second: enem101_137
+  - first:
+      213: -849916132032050007
+    second: enem101_138
+  - first:
+      213: -310197595531542842
+    second: enem101_139
+  - first:
+      213: -8285026452648900796
+    second: enem101_140
+  - first:
+      213: 3691146941824186150
+    second: enem101_141
+  - first:
+      213: 4971312301807312983
+    second: enem101_142
+  - first:
+      213: 8043794954874229951
+    second: enem101_143
+  - first:
+      213: -8470401582104465964
+    second: enem101_144
+  - first:
+      213: -2544137425539033897
+    second: enem101_145
+  - first:
+      213: -3684580197673280228
+    second: enem101_146
+  - first:
+      213: 7641270062670800535
+    second: enem101_147
+  - first:
+      213: 4417800059312751966
+    second: enem101_148
+  - first:
+      213: 7658122149456733459
+    second: enem101_149
+  - first:
+      213: -5899408167230069600
+    second: enem101_150
+  - first:
+      213: 4110074881630031588
+    second: enem101_151
+  - first:
+      213: -2536088871528027910
+    second: enem101_152
+  - first:
+      213: 3958922915539380923
+    second: enem101_153
+  - first:
+      213: -7117788697546963563
+    second: enem101_154
+  - first:
+      213: 1114617297053652565
+    second: enem101_155
+  - first:
+      213: 5516005741193341610
+    second: enem101_156
+  - first:
+      213: 3944794183929257646
+    second: enem101_157
+  - first:
+      213: 8101786838201814170
+    second: enem101_158
+  - first:
+      213: 5203567812567918652
+    second: enem101_159
+  - first:
+      213: 7777067004514341898
+    second: enem101_160
+  - first:
+      213: 8088128041715899665
+    second: enem101_161
+  - first:
+      213: 6593008558899495182
+    second: enem101_162
+  - first:
+      213: 4571073527598903345
+    second: enem101_163
+  - first:
+      213: -3804654916269023319
+    second: enem101_164
+  - first:
+      213: 6490850325887337706
+    second: enem101_165
+  - first:
+      213: 4784826190759402572
+    second: enem101_166
+  - first:
+      213: -3482606472793652376
+    second: enem101_167
+  - first:
+      213: 5428111059934646863
+    second: enem101_168
+  - first:
+      213: -558043518063619482
+    second: enem101_169
+  - first:
+      213: 9219061122606252599
+    second: enem101_170
+  - first:
+      213: 5550922274711828806
+    second: enem101_171
+  - first:
+      213: -5275772638527491409
+    second: enem101_172
+  - first:
+      213: -7365553395083010302
+    second: enem101_173
+  - first:
+      213: 1627267888527582184
+    second: enem101_174
+  - first:
+      213: -6011108220582152435
+    second: enem101_175
+  - first:
+      213: -587695983117964094
+    second: enem101_176
+  - first:
+      213: -2558692509071201820
+    second: enem101_177
+  - first:
+      213: -7024604761497142696
+    second: enem101_178
+  - first:
+      213: 7458568609719156517
+    second: enem101_179
+  - first:
+      213: 4526387965901617257
+    second: enem101_180
+  - first:
+      213: -2886411384784631550
+    second: enem101_181
+  - first:
+      213: 9198915677854743795
+    second: enem101_182
+  - first:
+      213: 5806404406846378206
+    second: enem101_183
+  - first:
+      213: 2808047470412051363
+    second: enem101_184
+  - first:
+      213: 1177114382302140439
+    second: enem101_185
+  - first:
+      213: 6288231963383582268
+    second: enem101_186
+  - first:
+      213: 3055730035193858635
+    second: enem101_187
+  - first:
+      213: 1602787035856339416
+    second: enem101_188
+  - first:
+      213: 6515567179600168058
+    second: enem101_189
+  - first:
+      213: 5761406407242210591
+    second: enem101_190
+  - first:
+      213: -5822267181734213275
+    second: enem101_191
+  - first:
+      213: 889434996583784267
+    second: enem101_192
+  - first:
+      213: 4013676220918286621
+    second: enem101_193
+  - first:
+      213: 5010862322666047245
+    second: enem101_194
+  - first:
+      213: 4773050766043366556
+    second: enem101_195
+  - first:
+      213: -3952268479508788173
+    second: enem101_196
+  - first:
+      213: -3901554087151909857
+    second: enem101_197
+  - first:
+      213: 3434245704862626631
+    second: enem101_198
+  - first:
+      213: 7422572685553275501
+    second: enem101_199
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enem101_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 378
+        width: 238
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d32e6a03e587c30800000000000000
+      internalID: 4357336202532240725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enem101_1
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 387
+        width: 260
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af115595255ee0510800000000000000
+      internalID: 1517402266319262202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enem101_2
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 389
+        width: 223
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3f87ca2dda15bb0800000000000000
+      internalID: -4948983395155119196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enem101_3
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 389
+        width: 243
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683c887396dd3d4b0800000000000000
+      internalID: -5416742482823560314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enem101_4
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 386
+        width: 235
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d9ce7631748c6a0800000000000000
+      internalID: -6428810319397872355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enem101_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 15
+        width: 249
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74decbaeb4c5433a0800000000000000
+      internalID: -6686618065607791289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enem101_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 15
+        width: 236
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e002891f7b2d770800000000000000
+      internalID: 8634165683889901078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enem101_7
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 17
+        width: 431
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacf02de3be373200800000000000000
+      internalID: 159665254293372075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enem101_8
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 14
+        width: 374
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e4af78ee3016370800000000000000
+      internalID: 8313930710121074327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enem101_9
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 17
+        width: 301
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ed08b38eadea630800000000000000
+      internalID: 3940327414961331832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enem101_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 376
+        width: 235
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0634618b2683e498a5d1d7b5630186
+      internalID: -3597646185176117011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enem101_11
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 391
+        width: 233
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf7c721f68b45649b433305d676d2db
+      internalID: -6161482798731014832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enem101_12
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 383
+        width: 224
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c9c816c2ad91a4a95eb4c35705fb6d
+      internalID: 8976625809706772981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enem101_13
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 15
+        width: 232
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690d08f800d83474497e8b24a34922f4
+      internalID: 2351429989113237035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 49d4a935ec5b8194881611d4d89e1a8d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":2.0},"gridSpriteSize":{"x":434.0,"y":362.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      enem101_0: 4357336202532240725
+      enem101_1: 1517402266319262202
+      enem101_10: -3597646185176117011
+      enem101_11: -6161482798731014832
+      enem101_12: 8976625809706772981
+      enem101_13: 2351429989113237035
+      enem101_2: -4948983395155119196
+      enem101_3: -5416742482823560314
+      enem101_4: -6428810319397872355
+      enem101_5: -6686618065607791289
+      enem101_6: 8634165683889901078
+      enem101_7: 159665254293372075
+      enem101_8: 8313930710121074327
+      enem101_9: 3940327414961331832
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

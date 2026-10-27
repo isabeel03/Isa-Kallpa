@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 3770614c3abd4244fa7011cd6727afa2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2998999141506873432
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_0
+  - first:
+      213: 2512900702300700498
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_1
+  - first:
+      213: -4931063613606872601
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_2
+  - first:
+      213: 5645192100028106694
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_3
+  - first:
+      213: 8051035789645290096
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_4
+  - first:
+      213: 5693845941896682631
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_5
+  - first:
+      213: -3652999343975536836
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_6
+  - first:
+      213: 1870066787517393691
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_7
+  - first:
+      213: 2387935831663736786
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_8
+  - first:
+      213: -5914000414367304246
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_9
+  - first:
+      213: -2401645506534115465
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_10
+  - first:
+      213: 2103975096851055929
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_11
+  - first:
+      213: 3100976511567798893
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_12
+  - first:
+      213: 3907973322022282805
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_13
+  - first:
+      213: -4282877469591770752
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_14
+  - first:
+      213: 4735029571693317016
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_15
+  - first:
+      213: 7833021623358359825
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_16
+  - first:
+      213: -4881217949867500194
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_17
+  - first:
+      213: 2629500471564205438
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_18
+  - first:
+      213: 8311145842726706713
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_19
+  - first:
+      213: -2199847098636289258
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_20
+  - first:
+      213: 5691048704845810693
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_21
+  - first:
+      213: 5105986237884996135
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_22
+  - first:
+      213: 8065170586470121608
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_23
+  - first:
+      213: 5906392983609821162
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_24
+  - first:
+      213: 3590989563625904445
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_25
+  - first:
+      213: 2275761029788525251
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_26
+  - first:
+      213: 4809575413606457830
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_27
+  - first:
+      213: 598308500998608130
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_28
+  - first:
+      213: 7917746577775413218
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_29
+  - first:
+      213: -930025402597690450
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_30
+  - first:
+      213: 6951104765892735583
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_31
+  - first:
+      213: -3483933843465676040
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_32
+  - first:
+      213: 975224283816374018
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_33
+  - first:
+      213: -6578492571821550035
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_34
+  - first:
+      213: 7200663544103999386
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_35
+  - first:
+      213: -3653941780598966043
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_36
+  - first:
+      213: -7937582619770235755
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_37
+  - first:
+      213: 186176545990630638
+    second: 10655a32-6132-435f-a606-1fdf90cfbfe4_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Renacimiento_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 197
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa15446567b390c4eb32ed6a54e85ab6
+      internalID: 1810684791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renacimiento_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 239
+        width: 204
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e2f86992b2eb346883e42b8009e3df
+      internalID: -173171243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renacimiento_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 226
+        width: 179
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05886434e6aebf840af50cd54a1c92da
+      internalID: 1420910762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renacimiento_3
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 228
+        width: 183
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9280625da1cc4c45b25d5ed437cb9c4
+      internalID: 2018798089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renacimiento_4
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 236
+        width: 172
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd8945061045c045b109a6a49ab401d
+      internalID: 1342115901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renacimiento_5
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 233
+        width: 181
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c14f0d2f742ccc48b50cd745e1fe694
+      internalID: 1721651936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renacimiento_6
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 231
+        width: 182
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f258e113c448e94ab84a94d24b86e4b
+      internalID: 56887371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renacimiento_7
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 234
+        width: 197
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d79b78f4dfc6849b8d6c4b890a0442
+      internalID: 1688620129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Renacimiento_8
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 215
+        width: 197
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42cccccd551675469e4b05b3706379e
+      internalID: 1910888626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e7456fe619cc66148869b8e86acd2f8e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":9.0,"y":1.0},"gridSpriteSize":{"x":197.0,"y":887.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Renacimiento_0: 1810684791
+      Renacimiento_1: -173171243
+      Renacimiento_2: 1420910762
+      Renacimiento_3: 2018798089
+      Renacimiento_4: 1342115901
+      Renacimiento_5: 1721651936
+      Renacimiento_6: 56887371
+      Renacimiento_7: 1688620129
+      Renacimiento_8: 1910888626
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

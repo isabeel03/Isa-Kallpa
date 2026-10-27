@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 9e3edb8a407cc584d8225e3078fd0a42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7292666720193093888
+    second: enemFinal_0
+  - first:
+      213: 1773136845288270560
+    second: enemFinal_1
+  - first:
+      213: -9139752493303814379
+    second: enemFinal_2
+  - first:
+      213: 686808821456480854
+    second: enemFinal_3
+  - first:
+      213: -4101954185002006723
+    second: enemFinal_4
+  - first:
+      213: 5013427376903508823
+    second: enemFinal_5
+  - first:
+      213: -813055108807648939
+    second: enemFinal_6
+  - first:
+      213: 4120522664551008719
+    second: enemFinal_7
+  - first:
+      213: -5176732052679076228
+    second: enemFinal_8
+  - first:
+      213: 9051817484536391907
+    second: enemFinal_9
+  - first:
+      213: 3900422119365543243
+    second: enemFinal_10
+  - first:
+      213: -4024092585570526504
+    second: enemFinal_11
+  - first:
+      213: 1270320918143047500
+    second: enemFinal_12
+  - first:
+      213: -6264025149903580331
+    second: enemFinal_13
+  - first:
+      213: 356718243032798623
+    second: enemFinal_14
+  - first:
+      213: -3547545295397090412
+    second: enemFinal_15
+  - first:
+      213: -4889047925001121555
+    second: enemFinal_16
+  - first:
+      213: -8166453477667513513
+    second: enemFinal_17
+  - first:
+      213: 7537332769782975377
+    second: enemFinal_18
+  - first:
+      213: 1839127669350720653
+    second: enemFinal_19
+  - first:
+      213: 3440174058846743283
+    second: enemFinal_20
+  - first:
+      213: 8163697647913478921
+    second: enemFinal_21
+  - first:
+      213: -5529011707480801144
+    second: enemFinal_22
+  - first:
+      213: 1799479816370740077
+    second: enemFinal_23
+  - first:
+      213: -6571513174732299808
+    second: enemFinal_24
+  - first:
+      213: 2448003755105607152
+    second: enemFinal_25
+  - first:
+      213: -2075905644332950803
+    second: enemFinal_26
+  - first:
+      213: -7211813152932439815
+    second: enemFinal_27
+  - first:
+      213: -3650098165833517251
+    second: enemFinal_28
+  - first:
+      213: 5926499105951721992
+    second: enemFinal_29
+  - first:
+      213: -1358163703325695773
+    second: enemFinal_30
+  - first:
+      213: -4473573294545531808
+    second: enemFinal_31
+  - first:
+      213: -1563564049171997937
+    second: enemFinal_32
+  - first:
+      213: 1160812247631203161
+    second: enemFinal_33
+  - first:
+      213: 8060820344184799091
+    second: enemFinal_34
+  - first:
+      213: -9050684509296273165
+    second: enemFinal_35
+  - first:
+      213: 5608330357858815571
+    second: enemFinal_36
+  - first:
+      213: -5588735521690458590
+    second: enemFinal_37
+  - first:
+      213: 3417806099692743411
+    second: enemFinal_38
+  - first:
+      213: 7174333267476135010
+    second: enemFinal_39
+  - first:
+      213: -7515339014260017964
+    second: enemFinal_40
+  - first:
+      213: -3740339215087609372
+    second: enemFinal_41
+  - first:
+      213: -4813479262641298582
+    second: enemFinal_42
+  - first:
+      213: 1418528132784105345
+    second: enemFinal_43
+  - first:
+      213: -265280954425710504
+    second: enemFinal_44
+  - first:
+      213: -209589565161912381
+    second: enemFinal_45
+  - first:
+      213: 4795058803971984091
+    second: enemFinal_46
+  - first:
+      213: 6843122264169802708
+    second: enemFinal_47
+  - first:
+      213: -4050439365908795844
+    second: enemFinal_48
+  - first:
+      213: -8038595518724661840
+    second: enemFinal_49
+  - first:
+      213: 4508881957890080419
+    second: enemFinal_50
+  - first:
+      213: 12427184242141283
+    second: enemFinal_51
+  - first:
+      213: 4865427387981803622
+    second: enemFinal_52
+  - first:
+      213: 6857667468705348462
+    second: enemFinal_53
+  - first:
+      213: 1892675197836696245
+    second: enemFinal_54
+  - first:
+      213: -5147929497179073259
+    second: enemFinal_55
+  - first:
+      213: -7171726496053899860
+    second: enemFinal_56
+  - first:
+      213: 9012007451331731130
+    second: enemFinal_57
+  - first:
+      213: 282369927177791750
+    second: enemFinal_58
+  - first:
+      213: 8521013377351219448
+    second: enemFinal_59
+  - first:
+      213: 6896938498117222260
+    second: enemFinal_60
+  - first:
+      213: -1918697055918223574
+    second: enemFinal_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemFinal_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 406
+        width: 300
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fd395914e3bca90800000000000000
+      internalID: -7292666720193093888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemFinal_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 406
+        width: 298
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea6099f0927b9810800000000000000
+      internalID: 1773136845288270560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemFinal_2
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 397
+        width: 309
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517a2a52883192180800000000000000
+      internalID: -9139752493303814379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemFinal_3
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 400
+        width: 311
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65aa487fbf8088900800000000000000
+      internalID: 686808821456480854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemFinal_4
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 391
+        width: 320
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37470ed66ee217c0800000000000000
+      internalID: -4101954185002006723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemFinal_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 312
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3b33fa2ec0fbc4e85a2373660e6fca
+      internalID: 5013427376903508823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemFinal_6
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1
+        width: 367
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbf201454d003b4e81c46c1867f7a51
+      internalID: -813055108807648939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemFinal_7
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1
+        width: 354
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d2584af6364054bb9ee974a35fe32c
+      internalID: 4120522664551008719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemFinal_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1
+        width: 400
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6227337c1c8634f921312a794dec13
+      internalID: -5176732052679076228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemFinal_9
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1
+        width: 269
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a64bae76ff58024b8043f0656bd41de
+      internalID: 9051817484536391907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3acab3dc7339bf64cbf7d87c61c1c5c7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":2.0},"gridSpriteSize":{"x":354.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      enemFinal_0: -7292666720193093888
+      enemFinal_1: 1773136845288270560
+      enemFinal_2: -9139752493303814379
+      enemFinal_3: 686808821456480854
+      enemFinal_4: -4101954185002006723
+      enemFinal_5: 5013427376903508823
+      enemFinal_6: -813055108807648939
+      enemFinal_7: 4120522664551008719
+      enemFinal_8: -5176732052679076228
+      enemFinal_9: 9051817484536391907
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

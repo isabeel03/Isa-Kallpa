@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: 164ccc42534b9e543a05ee4438266f86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5056958662188290150
+    second: Plat_0
+  - first:
+      213: -7237783938218544134
+    second: Plat_1
+  - first:
+      213: -5395202164177152067
+    second: Plat_2
+  - first:
+      213: -2586647450987023168
+    second: Plat_3
+  - first:
+      213: 4680378322644638166
+    second: Plat_4
+  - first:
+      213: 6630661423920183047
+    second: Plat_5
+  - first:
+      213: -6803412398976386270
+    second: Plat_6
+  - first:
+      213: 1592387322881960487
+    second: Plat_7
+  - first:
+      213: -4873262085647274594
+    second: Plat_8
+  - first:
+      213: 2155944565768551274
+    second: Plat_9
+  - first:
+      213: -3811299400166746962
+    second: Plat_10
+  - first:
+      213: 5191995278322442487
+    second: Plat_11
+  - first:
+      213: 8543090490988212541
+    second: Plat_12
+  - first:
+      213: 8688790910754484324
+    second: Plat_13
+  - first:
+      213: 1456759123299985615
+    second: Plat_14
+  - first:
+      213: 3592744424536824128
+    second: Plat_15
+  - first:
+      213: 1958021355565758769
+    second: Plat_16
+  - first:
+      213: -3390960367506128314
+    second: Plat_17
+  - first:
+      213: 3552691563671547360
+    second: Plat_18
+  - first:
+      213: 1546204854071383104
+    second: Plat_19
+  - first:
+      213: -5368262810632463057
+    second: Plat_20
+  - first:
+      213: -4757126725767584222
+    second: Plat_21
+  - first:
+      213: 8984204359265801032
+    second: Plat_22
+  - first:
+      213: 1918760388350736514
+    second: Plat_23
+  - first:
+      213: -3855005304037125382
+    second: Plat_24
+  - first:
+      213: 6614433893003440139
+    second: Plat_25
+  - first:
+      213: 2799707034606486482
+    second: Plat_26
+  - first:
+      213: -4302194505859087027
+    second: Plat_27
+  - first:
+      213: -7178164498896311407
+    second: Plat_28
+  - first:
+      213: 1350367315698370054
+    second: Plat_29
+  - first:
+      213: 2940570167647587343
+    second: Plat_30
+  - first:
+      213: -4222256461380606094
+    second: Plat_31
+  - first:
+      213: -4750168399891456367
+    second: Plat_32
+  - first:
+      213: 3443246302252501307
+    second: Plat_33
+  - first:
+      213: -2616052874087639459
+    second: Plat_34
+  - first:
+      213: 8755256545638772344
+    second: Plat_35
+  - first:
+      213: 5339003789516346149
+    second: Plat_36
+  - first:
+      213: -8135569569683018540
+    second: Plat_37
+  - first:
+      213: -8642554741132341335
+    second: Plat_38
+  - first:
+      213: -3017659008732017104
+    second: Plat_39
+  - first:
+      213: 8743930722125560403
+    second: Plat_40
+  - first:
+      213: -3882912901484934759
+    second: Plat_41
+  - first:
+      213: -1424766943995905109
+    second: Plat_42
+  - first:
+      213: -6541549291511138123
+    second: Plat_43
+  - first:
+      213: -3694989859012983321
+    second: Plat_44
+  - first:
+      213: -8126487741242833787
+    second: Plat_45
+  - first:
+      213: 8394212829003523385
+    second: Plat_46
+  - first:
+      213: 1613299359556773558
+    second: Plat_47
+  - first:
+      213: 2487313042749271870
+    second: Plat_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plat_0
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 825
+        width: 576
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660519f3c1ded2640800000000000000
+      internalID: 5056958662188290150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plat_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 436
+        width: 408
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d91ca7694b04f040800000000000000
+      internalID: 4680378322644638166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plat_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 555
+        width: 268
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707f5ae2f67d40c50800000000000000
+      internalID: 6630661423920183047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plat_7
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 433
+        width: 416
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ae63555db491610800000000000000
+      internalID: 1592387322881960487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plat_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 104
+        width: 515
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13930218c0a4c2b10800000000000000
+      internalID: 1958021355565758769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plat_24
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 102
+        width: 148
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2de95c915408ac0800000000000000
+      internalID: -3855005304037125382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plat_46
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 104
+        width: 503
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93528c1f71c3e7470800000000000000
+      internalID: 8394212829003523385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f502ad314e60325448a8218140cadf8d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plat_0: 5056958662188290150
+      Plat_1: -7237783938218544134
+      Plat_10: -3811299400166746962
+      Plat_11: 5191995278322442487
+      Plat_12: 8543090490988212541
+      Plat_13: 8688790910754484324
+      Plat_14: 1456759123299985615
+      Plat_15: 3592744424536824128
+      Plat_16: 1958021355565758769
+      Plat_17: -3390960367506128314
+      Plat_18: 3552691563671547360
+      Plat_19: 1546204854071383104
+      Plat_2: -5395202164177152067
+      Plat_20: -5368262810632463057
+      Plat_21: -4757126725767584222
+      Plat_22: 8984204359265801032
+      Plat_23: 1918760388350736514
+      Plat_24: -3855005304037125382
+      Plat_25: 6614433893003440139
+      Plat_26: 2799707034606486482
+      Plat_27: -4302194505859087027
+      Plat_28: -7178164498896311407
+      Plat_29: 1350367315698370054
+      Plat_3: -2586647450987023168
+      Plat_30: 2940570167647587343
+      Plat_31: -4222256461380606094
+      Plat_32: -4750168399891456367
+      Plat_33: 3443246302252501307
+      Plat_34: -2616052874087639459
+      Plat_35: 8755256545638772344
+      Plat_36: 5339003789516346149
+      Plat_37: -8135569569683018540
+      Plat_38: -8642554741132341335
+      Plat_39: -3017659008732017104
+      Plat_4: 4680378322644638166
+      Plat_40: 8743930722125560403
+      Plat_41: -3882912901484934759
+      Plat_42: -1424766943995905109
+      Plat_43: -6541549291511138123
+      Plat_44: -3694989859012983321
+      Plat_45: -8126487741242833787
+      Plat_46: 8394212829003523385
+      Plat_47: 1613299359556773558
+      Plat_48: 2487313042749271870
+      Plat_5: 6630661423920183047
+      Plat_6: -6803412398976386270
+      Plat_7: 1592387322881960487
+      Plat_8: -4873262085647274594
+      Plat_9: 2155944565768551274
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
